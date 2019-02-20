@@ -1,0 +1,13 @@
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\bin\Debug\netcoreapp2.0\Framework.deps.json
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\bin\Debug\netcoreapp2.0\Framework.dll
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Primitives.dll
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Primitives.xml
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\obj\Debug\netcoreapp2.0\Framework.csproj.CoreCompileInputs.cache
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\obj\Debug\netcoreapp2.0\Framework.AssemblyInfoInputs.cache
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\obj\Debug\netcoreapp2.0\Framework.AssemblyInfo.cs
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\bin\Debug\netcoreapp2.0\Framework.pdb
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\obj\Debug\netcoreapp2.0\Framework.dll
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\obj\Debug\netcoreapp2.0\Framework.pdb
+D:\BD_TFS_Somel\TailorifySource\TailoryfyApi\Framework\obj\Debug\netcoreapp2.0\Framework.csprojResolveAssemblyReference.cache
